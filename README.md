@@ -11,7 +11,7 @@ The scanning mirrors I am currently using are from Thorlabs, but any system will
 
 The tissue is visualized through an analog camera (Dage-MTI, IR-1000), connected to a frame grabber. Commercially available digital cameras (e.g., QImaging) have not been tested. 
 
-To run the interface simply type python GUI.py.
+To run the interface simply type "python GUI.py" at the command prompt. Note that because this uses pClamp for the recordings, the full interface will only work in Windows.
 
 Future plans:
 
